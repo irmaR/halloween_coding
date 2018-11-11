@@ -1,0 +1,11 @@
+Instructions:
+
+1) write the same program (chaining_comparisons) in Python
+
+Look up/Google the following examples:
+1) Assigning values to variables in Python
+2) if-then-else condition syntax in Python
+3) printing to console in Python
+
+NOTE: the program should have the same structure as cpp, all variable names
+the same, same condition and same printout. 
